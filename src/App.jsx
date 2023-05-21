@@ -50,7 +50,7 @@ export default function App() {
         strokeWidth: 2,
       },
       label: {
-        text: 'Zerodai',
+        text: 'World',
         fill: '#FFFF',
         fontSize: 25,
       },
