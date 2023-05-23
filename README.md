@@ -1,1 +1,1 @@
-# jedan-app
+# joints-reactjs-vitejs-app
